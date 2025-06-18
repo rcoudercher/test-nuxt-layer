@@ -1,6 +1,7 @@
 import { fileURLToPath } from 'node:url'
 
 export default defineNuxtConfig({
+  compatibilityDate: '2025-06-18',
   extends: ['..'],
   modules: ['@nuxt/eslint'],
   eslint: {
