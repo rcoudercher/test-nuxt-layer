@@ -3,5 +3,5 @@ const { myLayer } = useAppConfig()
 </script>
 
 <template>
-  <pre>{{ myLayer }} = HelloWorld Comopnent from BASE layer</pre>
+  <pre>{{ myLayer }} = HelloWorld Comopnent from modified BASE layer</pre>
 </template>
